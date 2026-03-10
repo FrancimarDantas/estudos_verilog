@@ -4,6 +4,6 @@ module somador(
     output s
 );
 
-assing s = a ^ b;
+assign s = a ^ b;
 
 endmodule
